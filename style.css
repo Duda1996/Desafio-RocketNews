@@ -1,0 +1,64 @@
+body{
+    background: black;
+    
+}
+
+p{
+    color: white;
+    top: 10px;
+   
+}
+
+i{
+    color: white;
+}
+
+u{
+    color: white;
+}
+
+b{
+    color: rgb(6, 161, 58);
+    
+}
+
+img{
+   
+    float: right;
+    height: 650px;
+    width:730px;
+    top: 0px;
+    left: 650px;
+    position: fixed;
+
+    
+
+    
+}
+
+div {
+    position: absolute;
+    top: 10rem;
+}
+
+
+input{
+    height: 40px;
+    position: absolute;
+    width: 600px;
+}
+
+button{
+   height: 45px;
+   background-color: blueviolet;
+   left: 600;
+   position: absolute;
+}
+
+h1{
+    color: white;
+    top: 5rem;
+    margin: 6rem;
+}
+
+
